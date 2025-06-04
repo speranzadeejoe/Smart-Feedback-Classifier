@@ -1,5 +1,5 @@
 # Smart-Feedback-Classifier
-Sure! Here's a **short and simple** version of the `README.md` with a **minimal repository structure**:
+
 
 ---
 
